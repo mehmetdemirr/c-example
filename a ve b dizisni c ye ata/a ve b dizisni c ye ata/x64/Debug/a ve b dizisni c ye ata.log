@@ -1,0 +1,5 @@
+﻿  topla.c
+C:\Users\ddddddd\Desktop\c örnek\a ve b dizisni c ye ata\a ve b dizisni c ye ata\topla.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\a ve b dizisni c ye ata\a ve b dizisni c ye ata\topla.c(8,6): warning C4101: 'sayi': yerel değişken başvurusu kaldırıldı
+C:\Users\ddddddd\Desktop\c örnek\a ve b dizisni c ye ata\a ve b dizisni c ye ata\topla.c(26,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  a ve b dizisni c ye ata.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\a ve b dizisni c ye ata\x64\Debug\a ve b dizisni c ye ata.exe

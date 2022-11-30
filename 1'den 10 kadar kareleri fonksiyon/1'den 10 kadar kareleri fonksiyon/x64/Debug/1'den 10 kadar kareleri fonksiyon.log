@@ -1,0 +1,3 @@
+﻿  Kaynak.c
+C:\Users\ddddddd\Desktop\c örnek\1'den 10 kadar kareleri fonksiyon\1'den 10 kadar kareleri fonksiyon\Kaynak.c(9,14): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  1'den 10 kadar kareleri fonksiyon.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\1'den 10 kadar kareleri fonksiyon\x64\Debug\1'den 10 kadar kareleri fonksiyon.exe

@@ -1,0 +1,3 @@
+﻿  Kjhuak.c
+C:\Users\ddddddd\Desktop\c örnek\ornek123254\ornek123254\Kjhuak.c(11,21): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  ornek123254.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\ornek123254\x64\Debug\ornek123254.exe

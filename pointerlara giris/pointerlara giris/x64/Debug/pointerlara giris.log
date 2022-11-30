@@ -1,0 +1,3 @@
+﻿  pointer.c
+C:\Users\ddddddd\Desktop\c örnek\pointerlara giris\pointerlara giris\pointer.c(8,6): warning C4013: 'gets' tanımsız; int döndüren extern olduğu varsayılıyor
+  pointerlara giris.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\pointerlara giris\x64\Debug\pointerlara giris.exe

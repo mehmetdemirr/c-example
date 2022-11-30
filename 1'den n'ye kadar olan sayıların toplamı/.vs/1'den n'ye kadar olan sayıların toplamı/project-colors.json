@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "38f83aa3-27ac-4143-8913-fac2978decec": {
+      "ProjectGuid": "38f83aa3-27ac-4143-8913-fac2978decec",
+      "DisplayName": "1'den n'ye kadar olan sayıların toplamı",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

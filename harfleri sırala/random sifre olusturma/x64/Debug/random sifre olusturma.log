@@ -1,0 +1,5 @@
+﻿  sifre_olustur.c
+C:\Users\ddddddd\Desktop\c örnek\random sifre olusturma\random sifre olusturma\sifre_olustur.c(8,6): warning C4013: 'gets' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\ddddddd\Desktop\c örnek\random sifre olusturma\random sifre olusturma\sifre_olustur.c(9,16): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\random sifre olusturma\random sifre olusturma\sifre_olustur.c(18,9): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+  random sifre olusturma.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\random sifre olusturma\x64\Debug\random sifre olusturma.exe

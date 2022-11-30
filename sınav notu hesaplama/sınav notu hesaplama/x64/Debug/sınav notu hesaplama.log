@@ -1,0 +1,6 @@
+﻿  sinav.c
+C:\Users\ddddddd\Desktop\c örnek\sınav notu hesaplama\sınav notu hesaplama\sinav.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\sınav notu hesaplama\sınav notu hesaplama\sinav.c(11,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\sınav notu hesaplama\sınav notu hesaplama\sinav.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\sınav notu hesaplama\sınav notu hesaplama\sinav.c(4,22): warning C4101: 'yanlis': yerel değişken başvurusu kaldırıldı
+  sınav notu hesaplama.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\sınav notu hesaplama\x64\Debug\sınav notu hesaplama.exe

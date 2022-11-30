@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb9e7e99-3bbe-4680-967a-0a0bcb6a9a5c": {
+      "ProjectGuid": "eb9e7e99-3bbe-4680-967a-0a0bcb6a9a5c",
+      "DisplayName": "getch kullanımı",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

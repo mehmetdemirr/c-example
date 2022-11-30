@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3fc781a-b13a-4b27-92d6-77a83ac4a81c": {
+      "ProjectGuid": "e3fc781a-b13a-4b27-92d6-77a83ac4a81c",
+      "DisplayName": "örnek",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

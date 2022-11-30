@@ -1,0 +1,3 @@
+﻿  mehmetd.c
+C:\Users\ddddddd\Desktop\c örnek\45mehmet\45mehmet\mehmetd.c(15,15): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  45mehmet.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\45mehmet\x64\Debug\45mehmet.exe

@@ -1,0 +1,5 @@
+﻿  Kaynak.c
+C:\Users\ddddddd\Desktop\c örnek\matris\matris\Kaynak.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\matris\matris\Kaynak.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\matris\matris\Kaynak.c(41,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  matris.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\matris\x64\Debug\matris.exe

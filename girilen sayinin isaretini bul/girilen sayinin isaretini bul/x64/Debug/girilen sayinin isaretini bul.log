@@ -1,0 +1,3 @@
+﻿  isaret.c
+C:\Users\ddddddd\Desktop\c örnek\girilen sayinin isaretini bul\girilen sayinin isaretini bul\isaret.c(20,10): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  girilen sayinin isaretini bul.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\girilen sayinin isaretini bul\x64\Debug\girilen sayinin isaretini bul.exe

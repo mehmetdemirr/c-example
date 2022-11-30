@@ -1,0 +1,8 @@
+﻿  okey.c
+C:\Users\mehme\Desktop\benim klasör\c örnek\101 tas dagitma\101 tas dagitma\okey.c(13,12): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\Desktop\benim klasör\c örnek\101 tas dagitma\101 tas dagitma\okey.c(22,29): warning C4047: '=': 'int', yöneltme düzeyi sayısı bakımından 'const int *' ile aynı değil
+C:\Users\mehme\Desktop\benim klasör\c örnek\101 tas dagitma\101 tas dagitma\okey.c(23,29): warning C4090: '=': farklı 'const' niteleyicileri
+C:\Users\mehme\Desktop\benim klasör\c örnek\101 tas dagitma\101 tas dagitma\okey.c(27,26): warning C4047: '=': 'int', yöneltme düzeyi sayısı bakımından 'const int *' ile aynı değil
+C:\Users\mehme\Desktop\benim klasör\c örnek\101 tas dagitma\101 tas dagitma\okey.c(28,25): warning C4090: '=': farklı 'const' niteleyicileri
+C:\Users\mehme\Desktop\benim klasör\c örnek\101 tas dagitma\101 tas dagitma\okey.c(17,1): warning C4047: 'başlatılıyor': 'const int *', yöneltme düzeyi sayısı bakımından 'int' ile aynı değil
+  101 tas dagitma.vcxproj -> C:\Users\mehme\Desktop\benim klasör\c örnek\101 tas dagitma\x64\Debug\101 tas dagitma.exe

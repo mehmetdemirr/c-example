@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3dec109-ee55-4216-8cee-d2b55a30d2b7": {
+      "ProjectGuid": "f3dec109-ee55-4216-8cee-d2b55a30d2b7",
+      "DisplayName": "satır ve sutun alip matris elemanlarini al",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

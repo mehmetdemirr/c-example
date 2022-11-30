@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78de5702-1d97-41a8-9bd2-483a4decc090": {
+      "ProjectGuid": "78de5702-1d97-41a8-9bd2-483a4decc090",
+      "DisplayName": "hanoi'nin kuleleri problemi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

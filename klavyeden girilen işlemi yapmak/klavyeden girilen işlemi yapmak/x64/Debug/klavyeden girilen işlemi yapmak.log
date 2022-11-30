@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6006: "link.exe" öğesinden 1168 koduyla çıkıldı.
+LINK : fatal error LNK1168: C:\Users\ddddddd\Desktop\c örnek\klavyeden girilen işlemi yapmak\x64\Debug\klavyeden girilen işlemi yapmak.exe yazma için açılamıyor

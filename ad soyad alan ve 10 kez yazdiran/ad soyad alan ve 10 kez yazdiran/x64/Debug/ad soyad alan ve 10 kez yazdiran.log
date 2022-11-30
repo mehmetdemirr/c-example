@@ -1,0 +1,6 @@
+﻿  Kaynak.c
+C:\Users\ddddddd\Desktop\c örnek\ad soyad alan ve 10 kez yazdiran\ad soyad alan ve 10 kez yazdiran\Kaynak.c(9,13): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\ddddddd\Desktop\c örnek\ad soyad alan ve 10 kez yazdiran\ad soyad alan ve 10 kez yazdiran\Kaynak.c(9,13): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\ddddddd\Desktop\c örnek\ad soyad alan ve 10 kez yazdiran\ad soyad alan ve 10 kez yazdiran\Kaynak.c(9,13): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\ddddddd\Desktop\c örnek\ad soyad alan ve 10 kez yazdiran\ad soyad alan ve 10 kez yazdiran\Kaynak.c(9,13): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+  ad soyad alan ve 10 kez yazdiran.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\ad soyad alan ve 10 kez yazdiran\x64\Debug\ad soyad alan ve 10 kez yazdiran.exe

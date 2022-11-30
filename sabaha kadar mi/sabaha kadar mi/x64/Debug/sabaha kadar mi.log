@@ -1,0 +1,6 @@
+﻿  sabaha.c
+C:\Users\ddddddd\Desktop\html\sabaha kadar mi\sabaha kadar mi\sabaha.c(23,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\ddddddd\Desktop\html\sabaha kadar mi\sabaha kadar mi\sabaha.c(23,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\ddddddd\Desktop\html\sabaha kadar mi\sabaha kadar mi\sabaha.c(23,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\ddddddd\Desktop\html\sabaha kadar mi\sabaha kadar mi\sabaha.c(23,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+  sabaha kadar mi.vcxproj -> C:\Users\ddddddd\Desktop\html\sabaha kadar mi\x64\Debug\sabaha kadar mi.exe

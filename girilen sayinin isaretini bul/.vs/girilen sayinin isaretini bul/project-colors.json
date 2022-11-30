@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f8bb228-ab3f-40cb-844a-a1a33ee72b40": {
+      "ProjectGuid": "6f8bb228-ab3f-40cb-844a-a1a33ee72b40",
+      "DisplayName": "girilen sayinin isaretini bul",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

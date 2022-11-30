@@ -1,0 +1,3 @@
+﻿  yazı_tura.c
+C:\Users\ddddddd\Desktop\c örnek\yazı-tura atma fonksiyonu\yazı-tura atma fonksiyonu\yazı_tura.c(21,12): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  yazı-tura atma fonksiyonu.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\yazı-tura atma fonksiyonu\x64\Debug\yazı-tura atma fonksiyonu.exe

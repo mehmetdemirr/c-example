@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f973d3df-5ceb-4114-92a2-a4ae5659ed8b": {
+      "ProjectGuid": "f973d3df-5ceb-4114-92a2-a4ae5659ed8b",
+      "DisplayName": "sayi tahmin etme oyunu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

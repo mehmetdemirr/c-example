@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf53d2f3-cf04-41d6-92e3-fe151e97ff3c": {
+      "ProjectGuid": "cf53d2f3-cf04-41d6-92e3-fe151e97ff3c",
+      "DisplayName": "dik kenarlar girilen ucgenin hipotenusunu bul",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

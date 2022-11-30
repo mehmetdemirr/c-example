@@ -1,0 +1,11 @@
+﻿  sizeof.c
+C:\Users\ddddddd\Desktop\c örnek\sizof fonksiyonu kullanimi\sizof fonksiyonu kullanimi\sizeof.c(7,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'size_t'
+C:\Users\ddddddd\Desktop\c örnek\sizof fonksiyonu kullanimi\sizof fonksiyonu kullanimi\sizeof.c(7,9): message : biçim dizesinde '%zd' kullanmayı düşünün
+C:\Users\ddddddd\Desktop\c örnek\sizof fonksiyonu kullanimi\sizof fonksiyonu kullanimi\sizeof.c(8,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'size_t'
+C:\Users\ddddddd\Desktop\c örnek\sizof fonksiyonu kullanimi\sizof fonksiyonu kullanimi\sizeof.c(8,9): message : biçim dizesinde '%zd' kullanmayı düşünün
+C:\Users\ddddddd\Desktop\c örnek\sizof fonksiyonu kullanimi\sizof fonksiyonu kullanimi\sizeof.c(9,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'size_t'
+C:\Users\ddddddd\Desktop\c örnek\sizof fonksiyonu kullanimi\sizof fonksiyonu kullanimi\sizeof.c(9,9): message : biçim dizesinde '%zd' kullanmayı düşünün
+C:\Users\ddddddd\Desktop\c örnek\sizof fonksiyonu kullanimi\sizof fonksiyonu kullanimi\sizeof.c(10,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'size_t'
+C:\Users\ddddddd\Desktop\c örnek\sizof fonksiyonu kullanimi\sizof fonksiyonu kullanimi\sizeof.c(10,9): message : biçim dizesinde '%zd' kullanmayı düşünün
+C:\Users\ddddddd\Desktop\c örnek\sizof fonksiyonu kullanimi\sizof fonksiyonu kullanimi\sizeof.c(5,1): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  sizof fonksiyonu kullanimi.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\sizof fonksiyonu kullanimi\x64\Debug\sizof fonksiyonu kullanimi.exe

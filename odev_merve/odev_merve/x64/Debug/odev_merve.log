@@ -1,0 +1,11 @@
+﻿  odev_merve.c
+C:\Users\ddddddd\Desktop\c örnek\odev_merve\odev_merve\odev_merve.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\odev_merve\odev_merve\odev_merve.c(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\odev_merve\odev_merve\odev_merve.c(10,44): warning C4101: 's2': yerel değişken başvurusu kaldırıldı
+C:\Users\ddddddd\Desktop\c örnek\odev_merve\odev_merve\odev_merve.c(10,33): warning C4101: 's1': yerel değişken başvurusu kaldırıldı
+C:\Users\ddddddd\Desktop\c örnek\odev_merve\odev_merve\odev_merve.c(21,18): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\odev_merve\odev_merve\odev_merve.c(30,22): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\odev_merve\odev_merve\odev_merve.c(44,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\odev_merve\odev_merve\odev_merve.c(45,17): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\odev_merve\odev_merve\odev_merve.c(45,37): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  odev_merve.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\odev_merve\x64\Debug\odev_merve.exe

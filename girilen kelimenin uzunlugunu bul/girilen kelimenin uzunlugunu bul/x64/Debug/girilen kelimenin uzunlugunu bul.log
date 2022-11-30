@@ -1,0 +1,3 @@
+﻿  uzunluk.c
+C:\Users\ddddddd\Desktop\html\girilen kelimenin uzunlugunu bul\girilen kelimenin uzunlugunu bul\uzunluk.c(7,6): warning C4013: 'gets' tanımsız; int döndüren extern olduğu varsayılıyor
+  girilen kelimenin uzunlugunu bul.vcxproj -> C:\Users\ddddddd\Desktop\html\girilen kelimenin uzunlugunu bul\x64\Debug\girilen kelimenin uzunlugunu bul.exe

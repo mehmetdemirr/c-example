@@ -1,0 +1,4 @@
+﻿  secim.c
+C:\Users\ddddddd\Desktop\c örnek\secim fonksiyonu\secim fonksiyonu\secim.c(15,53): warning C4474: 'printf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+C:\Users\ddddddd\Desktop\c örnek\secim fonksiyonu\secim fonksiyonu\secim.c(15,53): message : yer tutucular ve bunların parametreleri 0 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+  secim fonksiyonu.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\secim fonksiyonu\x64\Debug\secim fonksiyonu.exe

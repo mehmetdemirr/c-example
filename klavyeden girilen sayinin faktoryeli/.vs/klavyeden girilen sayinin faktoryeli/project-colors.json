@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00807f37-d349-4f8e-b0fb-28aa13d99960": {
+      "ProjectGuid": "00807f37-d349-4f8e-b0fb-28aa13d99960",
+      "DisplayName": "klavyeden girilen sayinin faktoryeli",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

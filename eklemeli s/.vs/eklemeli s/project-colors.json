@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "88d99807-f278-4a8f-bbbf-042680d3186a": {
+      "ProjectGuid": "88d99807-f278-4a8f-bbbf-042680d3186a",
+      "DisplayName": "eklemeli s",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

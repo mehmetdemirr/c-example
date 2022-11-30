@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "1683edfc-8a9a-46df-a3fb-3e9fdb3091f2": {
+      "ProjectGuid": "1683edfc-8a9a-46df-a3fb-3e9fdb3091f2",
+      "DisplayName": "çubuk boyu sıralama",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

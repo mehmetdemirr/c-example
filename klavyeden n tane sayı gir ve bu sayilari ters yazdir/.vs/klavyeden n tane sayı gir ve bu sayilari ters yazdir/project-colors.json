@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c50eecae-978f-408d-9dca-848e6129286c": {
+      "ProjectGuid": "c50eecae-978f-408d-9dca-848e6129286c",
+      "DisplayName": "klavyeden n tane sayı gir ve bu sayilari ters yazdir",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05563cbd-7313-48c2-ae43-bdcc6523c6ab": {
+      "ProjectGuid": "05563cbd-7313-48c2-ae43-bdcc6523c6ab",
+      "DisplayName": "fibonacci dizisi terim",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

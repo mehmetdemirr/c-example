@@ -1,0 +1,4 @@
+﻿  kuvvet.c
+C:\Users\ddddddd\Desktop\c örnek\girilen sayi 5'in kuvveti mi\girilen sayi 5'in kuvveti mi\kuvvet.c(8,14): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\girilen sayi 5'in kuvveti mi\girilen sayi 5'in kuvveti mi\kuvvet.c(19,18): warning C4101: 'deger': yerel değişken başvurusu kaldırıldı
+  girilen sayi 5'in kuvveti mi.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\girilen sayi 5'in kuvveti mi\x64\Debug\girilen sayi 5'in kuvveti mi.exe

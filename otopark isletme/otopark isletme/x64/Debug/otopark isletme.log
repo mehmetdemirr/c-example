@@ -1,0 +1,3 @@
+﻿  otopark.c
+C:\Users\ddddddd\Desktop\c örnek\otopark isletme\otopark isletme\otopark.c(12,13): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  otopark isletme.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\otopark isletme\x64\Debug\otopark isletme.exe

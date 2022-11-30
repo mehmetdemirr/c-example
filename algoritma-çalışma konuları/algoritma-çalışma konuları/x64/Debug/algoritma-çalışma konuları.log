@@ -1,0 +1,4 @@
+﻿  sinav.c
+C:\Users\ddddddd\Desktop\c örnek\algoritma-çalışma konuları\algoritma-çalışma konuları\sinav.c(11,26): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\algoritma-çalışma konuları\algoritma-çalışma konuları\sinav.c(12,26): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  algoritma-çalışma konuları.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\algoritma-çalışma konuları\x64\Debug\algoritma-çalışma konuları.exe

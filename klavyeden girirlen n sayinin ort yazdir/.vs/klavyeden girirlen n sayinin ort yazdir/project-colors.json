@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8921f63-b685-4932-9224-3578a5812cdc": {
+      "ProjectGuid": "e8921f63-b685-4932-9224-3578a5812cdc",
+      "DisplayName": "klavyeden girirlen n sayinin ort yazdir",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,4 @@
+﻿  ters.c
+C:\Users\ddddddd\Desktop\c örnek\girilen kelimeyi tersten yazdir\girilen kelimeyi tersten yazdir\ters.c(10,6): warning C4013: 'gets' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\ddddddd\Desktop\c örnek\girilen kelimeyi tersten yazdir\girilen kelimeyi tersten yazdir\ters.c(11,18): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  girilen kelimeyi tersten yazdir.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\girilen kelimeyi tersten yazdir\x64\Debug\girilen kelimeyi tersten yazdir.exe

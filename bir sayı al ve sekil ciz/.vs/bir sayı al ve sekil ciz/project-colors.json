@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6bc845d-75c6-45a6-8fe1-81a6eb61d8e0": {
+      "ProjectGuid": "d6bc845d-75c6-45a6-8fe1-81a6eb61d8e0",
+      "DisplayName": "bir sayı al ve sekil ciz",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

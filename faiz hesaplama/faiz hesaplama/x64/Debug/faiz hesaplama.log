@@ -1,0 +1,4 @@
+﻿  faiz.c
+C:\Users\ddddddd\Desktop\c örnek\faiz hesaplama\faiz hesaplama\faiz.c(13,19): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\faiz hesaplama\faiz hesaplama\faiz.c(6,42): warning C4101: 'i': yerel değişken başvurusu kaldırıldı
+  faiz hesaplama.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\faiz hesaplama\x64\Debug\faiz hesaplama.exe

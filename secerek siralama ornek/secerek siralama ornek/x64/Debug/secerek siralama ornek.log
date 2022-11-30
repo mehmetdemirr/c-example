@@ -1,0 +1,5 @@
+﻿  Kaynak.c
+C:\Users\ddddddd\Desktop\c örnek\secerek siralama ornek\secerek siralama ornek\Kaynak.c(10,26): warning C4552: '<': ifade sonucu kullanılmıyor
+C:\Users\ddddddd\Desktop\c örnek\secerek siralama ornek\secerek siralama ornek\Kaynak.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\secerek siralama ornek\secerek siralama ornek\Kaynak.c(13,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  secerek siralama ornek.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\secerek siralama ornek\x64\Debug\secerek siralama ornek.exe

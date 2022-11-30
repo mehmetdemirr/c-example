@@ -1,0 +1,4 @@
+﻿  karakter.c
+C:\Users\ddddddd\Desktop\c örnek\sifre de olan karakterlerin cesidini bulma\sifre de olan karakterlerin cesidini bulma\karakter.c(9,6): warning C4013: 'gets' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\ddddddd\Desktop\c örnek\sifre de olan karakterlerin cesidini bulma\sifre de olan karakterlerin cesidini bulma\karakter.c(10,17): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  sifre de olan karakterlerin cesidini bulma.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\sifre de olan karakterlerin cesidini bulma\x64\Debug\sifre de olan karakterlerin cesidini bulma.exe

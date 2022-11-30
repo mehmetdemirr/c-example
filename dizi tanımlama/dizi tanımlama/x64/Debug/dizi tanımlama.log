@@ -1,0 +1,5 @@
+﻿  dizi.c
+C:\Users\ddddddd\Desktop\c örnek\dizi tanımlama\dizi tanımlama\dizi.c(7,16): warning C4047: '=': 'float *', yöneltme düzeyi sayısı bakımından 'float (*)[3]' ile aynı değil
+C:\Users\ddddddd\Desktop\c örnek\dizi tanımlama\dizi tanımlama\dizi.c(5,1): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ddddddd\Desktop\c örnek\dizi tanımlama\dizi tanımlama\dizi.c(11,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  dizi tanımlama.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\dizi tanımlama\x64\Debug\dizi tanımlama.exe

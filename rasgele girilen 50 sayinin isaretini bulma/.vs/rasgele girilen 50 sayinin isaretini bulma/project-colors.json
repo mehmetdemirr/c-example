@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2dd52a7-ab19-4d67-98e1-b7cc13d184f1": {
+      "ProjectGuid": "b2dd52a7-ab19-4d67-98e1-b7cc13d184f1",
+      "DisplayName": "rasgele girilen 50 sayinin isaretini bulma",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

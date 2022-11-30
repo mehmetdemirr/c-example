@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2eeeec4a-e95d-4226-824c-edb98da8dc5d": {
+      "ProjectGuid": "2eeeec4a-e95d-4226-824c-edb98da8dc5d",
+      "DisplayName": "struct typedef",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

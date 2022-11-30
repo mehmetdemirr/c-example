@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50aab5a3-4f78-4e21-8990-cf3f2a3275d4": {
+      "ProjectGuid": "50aab5a3-4f78-4e21-8990-cf3f2a3275d4",
+      "DisplayName": "basit hesap makinesi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

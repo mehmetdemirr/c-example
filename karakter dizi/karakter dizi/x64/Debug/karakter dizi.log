@@ -1,0 +1,13 @@
+﻿  karekterDizi.c
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(7,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(7,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(7,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%c' biçim dizesi için gereklidir
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(7,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(32,10): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(10,1): error C2051: case ifadesi sabit değil
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(13,1): error C2051: case ifadesi sabit değil
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(16,1): error C2051: case ifadesi sabit değil
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(19,1): error C2051: case ifadesi sabit değil
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(22,1): error C2051: case ifadesi sabit değil
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(25,1): error C2051: case ifadesi sabit değil
+C:\Users\ddddddd\Desktop\c örnek\karakter dizi\karakter dizi\karekterDizi.c(28,1): error C2051: case ifadesi sabit değil

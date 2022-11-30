@@ -1,0 +1,5 @@
+﻿  akıslar.c
+C:\Users\ddddddd\Desktop\c örnek\akışlar deneme\akışlar deneme\akıslar.c(6,12): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\akışlar deneme\akışlar deneme\akıslar.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\akışlar deneme\akışlar deneme\akıslar.c(36,16): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  akışlar deneme.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\akışlar deneme\x64\Debug\akışlar deneme.exe

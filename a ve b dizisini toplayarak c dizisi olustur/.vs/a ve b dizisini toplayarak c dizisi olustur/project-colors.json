@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0874d70-c340-4c43-8aaf-7ebcc607bc54": {
+      "ProjectGuid": "a0874d70-c340-4c43-8aaf-7ebcc607bc54",
+      "DisplayName": "a ve b dizisini toplayarak c dizisi olustur",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

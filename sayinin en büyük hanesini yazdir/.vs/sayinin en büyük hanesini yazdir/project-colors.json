@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52e209bb-2597-4a6b-8d34-e75cfb970015": {
+      "ProjectGuid": "52e209bb-2597-4a6b-8d34-e75cfb970015",
+      "DisplayName": "sayinin en büyük hanesini yazdir",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

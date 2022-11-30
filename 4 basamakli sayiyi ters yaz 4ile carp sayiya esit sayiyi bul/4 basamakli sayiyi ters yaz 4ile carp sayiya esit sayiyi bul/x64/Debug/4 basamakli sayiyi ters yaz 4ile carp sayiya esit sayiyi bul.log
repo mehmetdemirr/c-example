@@ -1,0 +1,5 @@
+﻿  sayi_bul.c
+C:\Users\ddddddd\Desktop\c örnek\4 basamakli sayiyi ters yaz 4ile carp sayiya esit sayiyi bul\4 basamakli sayiyi ters yaz 4ile carp sayiya esit sayiyi bul\sayi_bul.c(23,27): warning C4244: '+=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\4 basamakli sayiyi ters yaz 4ile carp sayiya esit sayiyi bul\4 basamakli sayiyi ters yaz 4ile carp sayiya esit sayiyi bul\sayi_bul.c(6,6): warning C4101: 'sayi': yerel değişken başvurusu kaldırıldı
+C:\Users\ddddddd\Desktop\c örnek\4 basamakli sayiyi ters yaz 4ile carp sayiya esit sayiyi bul\4 basamakli sayiyi ters yaz 4ile carp sayiya esit sayiyi bul\sayi_bul.c(6,45): warning C4101: 'csayi': yerel değişken başvurusu kaldırıldı
+  4 basamakli sayiyi ters yaz 4ile carp sayiya esit sayiyi bul.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\4 basamakli sayiyi ters yaz 4ile carp sayiya esit sayiyi bul\x64\Debug\basamk sayi ornek.exe

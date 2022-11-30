@@ -1,0 +1,4 @@
+﻿  Kaynak.c
+C:\Users\ddddddd\Desktop\c örnek\yarıçapı ile alan ve çevre bul\yarıçapı ile alan ve çevre bul\Kaynak.c(10,16): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\yarıçapı ile alan ve çevre bul\yarıçapı ile alan ve çevre bul\Kaynak.c(11,17): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  yarıçapı ile alan ve çevre bul.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\yarıçapı ile alan ve çevre bul\x64\Debug\yarıçapı ile alan ve çevre bul.exe

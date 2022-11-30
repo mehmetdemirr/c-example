@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6dc22cc-9ab4-4142-9a63-fbd8c12c26a8": {
+      "ProjectGuid": "a6dc22cc-9ab4-4142-9a63-fbd8c12c26a8",
+      "DisplayName": "klavyeden girilen sayinin tam bolenleri",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

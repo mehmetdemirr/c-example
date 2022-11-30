@@ -1,0 +1,12 @@
+﻿  str.c
+C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\string kutuphane fonklari\str.c(24,16): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'size_t'
+C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\string kutuphane fonklari\str.c(24,16): message : biçim dizesinde '%zd' kullanmayı düşünün
+C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\string kutuphane fonklari\str.c(25,10): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'size_t'
+C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\string kutuphane fonklari\str.c(25,10): message : biçim dizesinde '%zd' kullanmayı düşünün
+C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\string kutuphane fonklari\str.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\string kutuphane fonklari\str.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\string kutuphane fonklari\str.c(16,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\string kutuphane fonklari\str.c(20,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\string kutuphane fonklari\str.c(7,6): warning C4101: 'sayi': yerel değişken başvurusu kaldırıldı
+C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\string kutuphane fonklari\str.c(38,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  string kutuphane fonklari.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\string kutuphane fonklari\x64\Debug\string kutuphane fonklari.exe

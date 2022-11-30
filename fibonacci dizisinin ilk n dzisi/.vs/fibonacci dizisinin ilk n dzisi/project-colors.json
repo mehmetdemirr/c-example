@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4daf6bb9-f5b3-4878-a833-21104d7602da": {
+      "ProjectGuid": "4daf6bb9-f5b3-4878-a833-21104d7602da",
+      "DisplayName": "fibonacci dizisinin ilk n dzisi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

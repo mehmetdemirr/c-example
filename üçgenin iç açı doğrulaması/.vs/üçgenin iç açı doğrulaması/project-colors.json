@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0dcff248-4b1e-49b6-8024-89c186e0fcf9": {
+      "ProjectGuid": "0dcff248-4b1e-49b6-8024-89c186e0fcf9",
+      "DisplayName": "üçgenin iç açı doğrulaması",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32cafc09-1a0d-41a1-bfbe-4e2a12749770": {
+      "ProjectGuid": "32cafc09-1a0d-41a1-bfbe-4e2a12749770",
+      "DisplayName": "1-100 arası rasgele sayi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

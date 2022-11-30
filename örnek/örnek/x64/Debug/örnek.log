@@ -1,0 +1,3 @@
+﻿  Kaynak.c
+C:\Users\ddddddd\Desktop\c örnek\örnek\örnek\Kaynak.c(6,1): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  örnek.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\örnek\x64\Debug\örnek.exe

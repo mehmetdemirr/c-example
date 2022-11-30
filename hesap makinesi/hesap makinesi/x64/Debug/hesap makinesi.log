@@ -1,0 +1,5 @@
+﻿  hesapmakinesi.c
+C:\Users\ddddddd\Desktop\c örnek\hesap makinesi\hesap makinesi\hesapmakinesi.c(41,34): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\hesap makinesi\hesap makinesi\hesapmakinesi.c(42,20): warning C4477: 'printf' : '%.2f' biçim dizesi 'double' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int'
+C:\Users\ddddddd\Desktop\c örnek\hesap makinesi\hesap makinesi\hesapmakinesi.c(9,10): warning C4102: 'tekrar': etiket başvurusu kaldırıldı
+  hesap makinesi.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\hesap makinesi\x64\Debug\hesap makinesi.exe

@@ -1,0 +1,47 @@
+﻿  linkedlist.c
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(7,2): error C2061: sözdizimi hatası: tanımlayıcı 'list'
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(8,1): error C2059: sözdizimi hatası: '}'
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(11,7): error C2065: 'list': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(11,14): error C2065: 'ornek1': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(11,22): error C2065: 'ornek2': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(11,15): error C2100: geçersiz yöneltme
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(11,30): error C2065: 'ornek3': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(11,23): error C2100: geçersiz yöneltme
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(12,9): error C2065: 'ornek1': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(12,30): error C2065: 'list': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(12,31): error C2059: sözdizimi hatası: ')'
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(13,9): error C2065: 'ornek2': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(13,30): error C2065: 'list': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(13,31): error C2059: sözdizimi hatası: ')'
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(14,9): error C2065: 'ornek3': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(14,30): error C2065: 'list': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(14,31): error C2059: sözdizimi hatası: ')'
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(15,8): error C2065: 'ornek1': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(15,10): error C2223: '->data' sol tarafı bir yapıya/birleşime işaret etmelidir
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(16,8): error C2065: 'ornek1': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(16,10): error C2223: '->next' sol tarafı bir yapıya/birleşime işaret etmelidir
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(16,23): error C2065: 'ornek2': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(17,8): error C2065: 'ornek2': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(17,10): error C2223: '->data' sol tarafı bir yapıya/birleşime işaret etmelidir
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(18,8): error C2065: 'ornek2': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(18,10): error C2223: '->next' sol tarafı bir yapıya/birleşime işaret etmelidir
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(18,23): error C2065: 'ornek3': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(19,8): error C2065: 'ornek3': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(19,10): error C2223: '->data' sol tarafı bir yapıya/birleşime işaret etmelidir
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(20,8): error C2065: 'ornek3': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(20,10): error C2223: '->next' sol tarafı bir yapıya/birleşime işaret etmelidir
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(21,15): error C2065: 'ornek1': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(21,17): error C2223: '->next' sol tarafı bir yapıya/birleşime işaret etmelidir
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(23,30): error C2065: 'ornek1': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(23,32): error C2223: '->data' sol tarafı bir yapıya/birleşime işaret etmelidir
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(23,10): warning C4473: 'printf' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(23,10): message : yer tutucular ve bunların parametreleri 1 değişen sayıda bağımsız değişken bekliyor, ancak 0 tane sağlandı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(23,10): message : eksik 1 değişen sayıda bağımsız değişkeni '%d' biçim dizesi için gereklidir
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(24,10): error C2065: 'ornek1': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(24,18): error C2065: 'ornek1': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(24,20): error C2223: '->next' sol tarafı bir yapıya/birleşime işaret etmelidir
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(26,13): error C2065: 'ornek1': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(26,7): warning C4022: 'free': 1 gerçek parametresinde işaretçi uyuşmazlığı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(26,21): error C2065: 'ornek2': bildirimi yapılmamış tanımlayıcı
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(26,15): warning C4020: 'free': çok fazla sayıda gerçek parametre
+C:\Users\ddddddd\Desktop\c örnek\linked list\linked list\linkedlist.c(26,29): error C2065: 'ornek3': bildirimi yapılmamış tanımlayıcı

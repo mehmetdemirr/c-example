@@ -1,0 +1,4 @@
+﻿  zar.c
+C:\Users\ddddddd\Desktop\c örnek\3600 kez iki zar atma durumu\3600 kez iki zar atma durumu\zar.c(7,7): warning C4013: 'srand' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\ddddddd\Desktop\c örnek\3600 kez iki zar atma durumu\3600 kez iki zar atma durumu\zar.c(11,18): warning C4013: 'rand' tanımsız; int döndüren extern olduğu varsayılıyor
+  3600 kez iki zar atma durumu.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\3600 kez iki zar atma durumu\x64\Debug\3600 kez iki zar atma durumu.exe

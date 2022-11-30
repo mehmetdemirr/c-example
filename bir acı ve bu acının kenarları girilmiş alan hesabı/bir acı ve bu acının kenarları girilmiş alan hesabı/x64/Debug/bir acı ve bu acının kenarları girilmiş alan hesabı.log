@@ -1,0 +1,5 @@
+﻿  alan.c
+C:\Users\ddddddd\Desktop\html\bir acı ve bu acının kenarları girilmiş alan hesabı\bir acı ve bu acının kenarları girilmiş alan hesabı\alan.c(13,15): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\html\bir acı ve bu acının kenarları girilmiş alan hesabı\bir acı ve bu acının kenarları girilmiş alan hesabı\alan.c(20,27): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\html\bir acı ve bu acının kenarları girilmiş alan hesabı\bir acı ve bu acının kenarları girilmiş alan hesabı\alan.c(21,9): warning C4244: 'return': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  bir acı ve bu acının kenarları girilmiş alan hesabı.vcxproj -> C:\Users\ddddddd\Desktop\html\bir acı ve bu acının kenarları girilmiş alan hesabı\x64\Debug\bir acı ve bu acının kenarları girilmiş alan hesabı.exe

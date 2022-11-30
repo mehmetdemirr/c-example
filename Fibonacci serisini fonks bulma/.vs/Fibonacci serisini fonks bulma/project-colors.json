@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4bcce92-6e26-4f50-a106-c3329e4754ea": {
+      "ProjectGuid": "f4bcce92-6e26-4f50-a106-c3329e4754ea",
+      "DisplayName": "Fibonacci serisini fonks bulma",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,4 @@
+﻿  asal_bul.c
+C:\Users\ddddddd\Desktop\c örnek\iki sayi arasi asal sayi bulma\iki sayi arasi asal sayi bulma\asal_bul.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\iki sayi arasi asal sayi bulma\iki sayi arasi asal sayi bulma\asal_bul.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  iki sayi arasi asal sayi bulma.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\iki sayi arasi asal sayi bulma\x64\Debug\iki sayi arasi asal sayi bulma.exe

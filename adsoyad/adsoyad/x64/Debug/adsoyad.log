@@ -1,0 +1,10 @@
+﻿  ad.c
+C:\Users\ddddddd\Desktop\c örnek\adsoyad\adsoyad\ad.c(6,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\ddddddd\Desktop\c örnek\adsoyad\adsoyad\ad.c(6,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\ddddddd\Desktop\c örnek\adsoyad\adsoyad\ad.c(6,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%c' biçim dizesi için gereklidir
+C:\Users\ddddddd\Desktop\c örnek\adsoyad\adsoyad\ad.c(6,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\ddddddd\Desktop\c örnek\adsoyad\adsoyad\ad.c(8,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\ddddddd\Desktop\c örnek\adsoyad\adsoyad\ad.c(8,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\ddddddd\Desktop\c örnek\adsoyad\adsoyad\ad.c(8,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%c' biçim dizesi için gereklidir
+C:\Users\ddddddd\Desktop\c örnek\adsoyad\adsoyad\ad.c(8,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+  adsoyad.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\adsoyad\x64\Debug\adsoyad.exe

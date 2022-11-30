@@ -1,0 +1,4 @@
+﻿  Kaynak.c
+C:\Users\ddddddd\Desktop\c örnek\ondalıklı sayiyi alta ve uste yuvarla\ondalıklı sayiyi alta ve uste yuvarla\Kaynak.c(6,18): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\ondalıklı sayiyi alta ve uste yuvarla\ondalıklı sayiyi alta ve uste yuvarla\Kaynak.c(12,17): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  ondalıklı sayiyi alta ve uste yuvarla.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\ondalıklı sayiyi alta ve uste yuvarla\x64\Debug\ondalıklı sayiyi alta ve uste yuvarla.exe

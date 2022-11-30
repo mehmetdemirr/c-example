@@ -1,0 +1,3 @@
+﻿  bulusma.c
+C:\Users\ddddddd\Desktop\c örnek\toplanti yapalim\toplanti yapalim\bulusma.c(7,6): warning C4013: 'gets' tanımsız; int döndüren extern olduğu varsayılıyor
+  toplanti yapalim.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\toplanti yapalim\x64\Debug\toplanti yapalim.exe

@@ -1,0 +1,4 @@
+﻿  kaynak.c
+C:\Users\mehme\Desktop\benim klasör\c örnek\tas kagıt makas\tas kagıt makas\kaynak.c(13,12): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\Desktop\benim klasör\c örnek\tas kagıt makas\tas kagıt makas\kaynak.c(14,12): warning C4101: 'adet': yerel değişken başvurusu kaldırıldı
+  tas kagıt makas.vcxproj -> C:\Users\mehme\Desktop\benim klasör\c örnek\tas kagıt makas\x64\Debug\tas kagıt makas.exe

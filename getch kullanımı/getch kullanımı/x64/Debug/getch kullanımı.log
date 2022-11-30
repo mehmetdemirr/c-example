@@ -1,0 +1,3 @@
+﻿  Kaynak.c
+C:\Users\ddddddd\Desktop\c örnek\getch kullanımı\getch kullanımı\Kaynak.c(7,11): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  getch kullanımı.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\getch kullanımı\x64\Debug\getch kullanımı.exe

@@ -1,0 +1,5 @@
+﻿  Kaynak.c
+C:\Users\ddddddd\Desktop\c örnek\fonksiyon ile maksimum sayiyi bul\fonksiyon ile maksimum sayiyi bul\Kaynak.c(5,10): warning C4101: 'gecici': yerel değişken başvurusu kaldırıldı
+C:\Users\ddddddd\Desktop\c örnek\fonksiyon ile maksimum sayiyi bul\fonksiyon ile maksimum sayiyi bul\Kaynak.c(24,63): warning C4047: 'işlev': 'int *', yöneltme düzeyi sayısı bakımından 'int' ile aynı değil
+C:\Users\ddddddd\Desktop\c örnek\fonksiyon ile maksimum sayiyi bul\fonksiyon ile maksimum sayiyi bul\Kaynak.c(24,60): warning C4024: 'maks': 1 biçimsel ve gerçek parametresi için farklı türler
+  fonksiyon ile maksimum sayiyi bul.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\fonksiyon ile maksimum sayiyi bul\x64\Debug\fonksiyon ile maksimum sayiyi bul.exe

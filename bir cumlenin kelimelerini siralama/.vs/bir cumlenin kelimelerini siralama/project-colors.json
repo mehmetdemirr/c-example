@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01f0878e-7dce-41c2-939e-9c929157a5eb": {
+      "ProjectGuid": "01f0878e-7dce-41c2-939e-9c929157a5eb",
+      "DisplayName": "bir cumlenin kelimelerini siralama",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

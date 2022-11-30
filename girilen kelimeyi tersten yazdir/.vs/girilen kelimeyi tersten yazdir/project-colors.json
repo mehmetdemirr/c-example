@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b080318b-c83c-4508-ab1b-0ecaee76b498": {
+      "ProjectGuid": "b080318b-c83c-4508-ab1b-0ecaee76b498",
+      "DisplayName": "girilen kelimeyi tersten yazdir",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  donustur.c
+C:\Users\ddddddd\Desktop\c örnek\derece fahrenheit dönüşümü\derece fahrenheit dönüşümü\donustur.c(27,10): warning C4477: 'printf' : '%.2f' biçim dizesi 'double' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'double (__cdecl *)(float)'
+  derece fahrenheit dönüşümü.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\derece fahrenheit dönüşümü\x64\Debug\derece fahrenheit dönüşümü.exe

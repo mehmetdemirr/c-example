@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c54aaaf5-47f5-4a9c-8b7d-111b66ca7821": {
+      "ProjectGuid": "c54aaaf5-47f5-4a9c-8b7d-111b66ca7821",
+      "DisplayName": "klavyeden girilen 3 sayinin toplami",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

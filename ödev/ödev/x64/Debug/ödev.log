@@ -1,0 +1,6 @@
+﻿  odev.c
+C:\Users\ddddddd\Desktop\c örnek\ödev\ödev\odev.c(1,9): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\ddddddd\Desktop\c örnek\ödev\ödev\odev.c(15,12): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\ödev\ödev\odev.c(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\ödev\ödev\odev.c(22,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ödev.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\ödev\x64\Debug\ödev.exe

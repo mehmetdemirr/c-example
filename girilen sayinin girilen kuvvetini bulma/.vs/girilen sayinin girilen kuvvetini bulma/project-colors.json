@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2364242-622f-4b20-a8d2-d708ad7a5ef6": {
+      "ProjectGuid": "b2364242-622f-4b20-a8d2-d708ad7a5ef6",
+      "DisplayName": "girilen sayinin girilen kuvvetini bulma",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

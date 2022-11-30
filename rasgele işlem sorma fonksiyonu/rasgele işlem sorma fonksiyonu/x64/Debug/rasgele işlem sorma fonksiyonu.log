@@ -1,0 +1,11 @@
+﻿  islem.c
+C:\Users\ddddddd\Desktop\c örnek\rasgele işlem sorma fonksiyonu\rasgele işlem sorma fonksiyonu\islem.c(49,12): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\rasgele işlem sorma fonksiyonu\rasgele işlem sorma fonksiyonu\islem.c(56,10): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\ddddddd\Desktop\c örnek\rasgele işlem sorma fonksiyonu\rasgele işlem sorma fonksiyonu\islem.c(56,10): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\ddddddd\Desktop\c örnek\rasgele işlem sorma fonksiyonu\rasgele işlem sorma fonksiyonu\islem.c(56,10): message : eksik 2 değişen sayıda bağımsız değişkeni '%c' biçim dizesi için gereklidir
+C:\Users\ddddddd\Desktop\c örnek\rasgele işlem sorma fonksiyonu\rasgele işlem sorma fonksiyonu\islem.c(56,10): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\ddddddd\Desktop\c örnek\rasgele işlem sorma fonksiyonu\rasgele işlem sorma fonksiyonu\islem.c(67,26): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\rasgele işlem sorma fonksiyonu\rasgele işlem sorma fonksiyonu\islem.c(68,26): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\rasgele işlem sorma fonksiyonu\rasgele işlem sorma fonksiyonu\islem.c(69,26): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\rasgele işlem sorma fonksiyonu\rasgele işlem sorma fonksiyonu\islem.c(96,12): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'double'
+  rasgele işlem sorma fonksiyonu.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\rasgele işlem sorma fonksiyonu\x64\Debug\rasgele işlem sorma fonksiyonu.exe

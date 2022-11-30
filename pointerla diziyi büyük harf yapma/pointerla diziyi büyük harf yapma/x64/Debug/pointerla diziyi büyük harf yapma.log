@@ -1,0 +1,5 @@
+﻿  buyuk.c
+C:\Users\ddddddd\Desktop\c örnek\pointerla diziyi büyük harf yapma\pointerla diziyi büyük harf yapma\buyuk.c(8,6): warning C4013: 'gets' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\ddddddd\Desktop\c örnek\pointerla diziyi büyük harf yapma\pointerla diziyi büyük harf yapma\buyuk.c(11,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'size_t'
+C:\Users\ddddddd\Desktop\c örnek\pointerla diziyi büyük harf yapma\pointerla diziyi büyük harf yapma\buyuk.c(11,9): message : biçim dizesinde '%zd' kullanmayı düşünün
+  pointerla diziyi büyük harf yapma.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\pointerla diziyi büyük harf yapma\x64\Debug\pointerla diziyi büyük harf yapma.exe

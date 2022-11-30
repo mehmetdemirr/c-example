@@ -1,0 +1,5 @@
+﻿  pointer.c
+C:\Users\ddddddd\Desktop\c örnek\Project1\Project1\pointer.c(6,9): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\ddddddd\Desktop\c örnek\Project1\Project1\pointer.c(6,9): warning C4313: 'printf': biçim dizesindeki '%d', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\ddddddd\Desktop\c örnek\Project1\Project1\pointer.c(5,1): warning C4047: 'başlatılıyor': 'int *', yöneltme düzeyi sayısı bakımından 'int' ile aynı değil
+  Project1.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\Project1\x64\Debug\Project1.exe

@@ -1,0 +1,13 @@
+﻿  Kaynak.c
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(14,11): warning C4477: 'scanf_s' : '%s' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(14,11): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(14,11): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(14,11): message : yer tutucular ve bunların parametreleri 4 değişen sayıda bağımsız değişken bekliyor, ancak 2 tane sağlandı
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(14,11): message : eksik 3 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(14,11): message : bu bağımsız değişken bir dönüştürme tanımlayıcı tarafından kullanılıyor
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(18,12): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(21,10): warning C4477: 'printf' : '%s' biçim dizesi 'char *' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'int'
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(21,10): warning C4313: 'printf': biçim dizesindeki '%s', 2 bağımsız değişkeniyle (türü 'int') çakışıyor
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(21,10): warning C4477: 'printf' : '%s' biçim dizesi 'char *' türü bir bağımsız değişken gerektirir, ancak 3 değişen sayıda bağımsız değişkenin türü 'int'
+C:\Users\ddddddd\Desktop\c örnek\çekilş\çekilş\Kaynak.c(21,10): warning C4313: 'printf': biçim dizesindeki '%s', 3 bağımsız değişkeniyle (türü 'int') çakışıyor
+  çekilş.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\çekilş\x64\Debug\çekilş.exe

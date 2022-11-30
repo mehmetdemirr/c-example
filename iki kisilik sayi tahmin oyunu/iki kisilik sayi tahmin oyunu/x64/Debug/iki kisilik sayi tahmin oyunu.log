@@ -1,0 +1,12 @@
+﻿  sayi.c
+C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\iki kisilik sayi tahmin oyunu\sayi.c(10,12): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\iki kisilik sayi tahmin oyunu\sayi.c(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\iki kisilik sayi tahmin oyunu\sayi.c(17,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\iki kisilik sayi tahmin oyunu\sayi.c(26,15): warning C4020: 'dogrumu': çok fazla sayıda gerçek parametre
+C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\iki kisilik sayi tahmin oyunu\sayi.c(29,17): warning C4020: 'dogrumu': çok fazla sayıda gerçek parametre
+C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\iki kisilik sayi tahmin oyunu\sayi.c(32,2): warning C4033: 'tahminetme' bir değer döndürmelidir
+C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\iki kisilik sayi tahmin oyunu\sayi.c(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\iki kisilik sayi tahmin oyunu\sayi.c(28,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\iki kisilik sayi tahmin oyunu\sayi.c(35,1): warning C4029: bildirimi yapılan biçimsel parametre listesi tanımdan farklı
+C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\iki kisilik sayi tahmin oyunu\sayi.c(33): warning C4715: 'tahminetme': tüm denetim yolları değer döndürmez
+  iki kisilik sayi tahmin oyunu.vcxproj -> C:\Users\ddddddd\Desktop\c örnek\iki kisilik sayi tahmin oyunu\x64\Debug\iki kisilik sayi tahmin oyunu.exe

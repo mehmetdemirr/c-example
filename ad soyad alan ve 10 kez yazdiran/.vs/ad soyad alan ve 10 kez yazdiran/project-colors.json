@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c495916d-e6df-4d06-bd71-71e3f64dec12": {
+      "ProjectGuid": "c495916d-e6df-4d06-bd71-71e3f64dec12",
+      "DisplayName": "ad soyad alan ve 10 kez yazdiran",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
